@@ -1,4 +1,4 @@
-# Computer_Timer
+# Computer_Timer(only for window)
 
 < 업데이트 내역 >
 
