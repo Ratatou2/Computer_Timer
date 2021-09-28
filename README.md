@@ -11,8 +11,7 @@
 
 ## 특징(Features)
 ---
-- GUI 있음
-![image](https://user-images.githubusercontent.com/61686603/135012580-91d1bec6-41d9-44b9-a135-2b3effba607f.png)
+
 ![ICO Clock](https://user-images.githubusercontent.com/61686603/135013542-58ffb341-f80d-47bf-916e-d4115bf94405.png)
 
 
