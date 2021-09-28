@@ -13,7 +13,7 @@
 ---
 - GUI 있음
 ![image](https://user-images.githubusercontent.com/61686603/135012580-91d1bec6-41d9-44b9-a135-2b3effba607f.png)
-![image](https://user-images.githubusercontent.com/61686603/135013161-df060765-9976-44c3-a157-d17ac8f01631.png)
+![ICO Clock](https://user-images.githubusercontent.com/61686603/135013542-58ffb341-f80d-47bf-916e-d4115bf94405.png)
 
 
 
@@ -21,6 +21,7 @@
 ## 사용법(How to use)
 ----
 [![BLOG](https://user-images.githubusercontent.com/61686603/135012627-2c8553d4-f9e4-42f8-8618-7971a83f8ff8.png)](https://blog.naver.com/ws4232/222482194890)
+
 
 
 #### **[1]** : 굉장히 간단한데 일단 프로그램을 키면 이런 화면이 나온다
